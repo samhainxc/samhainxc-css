@@ -1,2 +1,2 @@
 # samhainxc-css
-CSS snippets that I frequently reuse.
+Dump of JS scripts that I frequently reuse --- feel free to use these for your own projects.
